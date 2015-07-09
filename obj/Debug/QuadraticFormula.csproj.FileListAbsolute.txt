@@ -1,0 +1,6 @@
+c:\Users\Dell User\Documents\Visual Studio 2013\Projects\QuadraticFormula\QuadraticFormula\bin\Debug\QuadraticFormula.exe.config
+c:\Users\Dell User\Documents\Visual Studio 2013\Projects\QuadraticFormula\QuadraticFormula\bin\Debug\QuadraticFormula.exe
+c:\Users\Dell User\Documents\Visual Studio 2013\Projects\QuadraticFormula\QuadraticFormula\bin\Debug\QuadraticFormula.pdb
+c:\Users\Dell User\Documents\Visual Studio 2013\Projects\QuadraticFormula\QuadraticFormula\obj\Debug\QuadraticFormula.exe
+c:\Users\Dell User\Documents\Visual Studio 2013\Projects\QuadraticFormula\QuadraticFormula\obj\Debug\QuadraticFormula.pdb
+C:\Users\Dell User\Documents\Visual Studio 2013\Projects\QuadraticFormula\QuadraticFormula\obj\Debug\QuadraticFormula.csprojResolveAssemblyReference.cache
